@@ -34,7 +34,6 @@ def task_3(): # Tuples
     return students
 
 def task_4(): # Sets
-
     fruits_1 = {"apple", "banana", "cherry", "grape", "mango", "pineapple", "papaya", "sprite", "orange", "lemon", "strawberry"}
     fruits_2 = {"raspberry", "banana", "cherry", "grape", "mango", "blueberry", "papaya", "melon", "lemon", "steak"}
 
